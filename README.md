@@ -1,6 +1,6 @@
 Hey there! I'm Vedanth. 
 
-Currently studying CSE at PES University, Bangalore  
+Currently studying CSE at PES University, Electronic City Campus, Bangalore.
 
 
 <!---

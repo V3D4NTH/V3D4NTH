@@ -49,7 +49,7 @@ I'm Vedanth. It seems you've reached my GitHub profile. Welcome!
 
 </br>
 
-#####                                            That's all, folks!
+
 
 <!---
 V3D4NTH/V3D4NTH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

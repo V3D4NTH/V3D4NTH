@@ -7,7 +7,6 @@ I'm Vedanth. It seems you've reached my GitHub profile. Welcome!
 
 - 🎓 A freshman studying Computer Science Engineering at PES University, Electronic City Campus.
 
-- 🐍 Predominantly, a Python coder. Most of my repos have at least one element which includes the language.
 - 🤓 As clichéd as it sounds, I'm always looking to learn something new! In CS and other fields!
 - 💖  Barça | Pro-Wrestling | CS | Comics | MMA 
 - Masla dosa connoisseur.

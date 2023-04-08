@@ -1,5 +1,12 @@
-# Hello, friend.
-I'm Vedanth. It seems you've reached my GitHub profile. Welcome!
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hello,+friend.;+I'm+Vedanth!;+You've+reached+my+GitHub+profile.;Welcome!;Feel+free+to+look+around.;">
+</p>
+
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 </br>
 
@@ -14,8 +21,6 @@ I'm Vedanth. It seems you've reached my GitHub profile. Welcome!
 </br>
 
 -----------------
-
-</br>
 
 ## Behold! My stuff.
 

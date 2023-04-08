@@ -18,7 +18,7 @@
 - 💖  Barça | Pro-Wrestling | CS | Comics | MMA 
 - Masla dosa connoisseur.
 - Born and raised in the greatest city in the world. Bangalore, baby!
-- 
+
 </br>
 
 -----------------

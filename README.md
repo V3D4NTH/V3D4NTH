@@ -1,7 +1,7 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hello,+friend.;+I'm+Vedanth!;+You've+reached+my+GitHub+profile.;Welcome!;Feel+free+to+look+around.;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hello,+friend.;+I'm+Vedanth!;+You've+reached+my+GitHub+profile.;Welcome!;Feel+free+to+look+around.;+And+have+a+nice+day!;">
 </p>
 
 
@@ -10,7 +10,7 @@
 
 </br>
 
-## Who am I, you ask?
+# Who am I, you ask?
 
 - 🎓 A freshman studying Computer Science Engineering at PES University, Electronic City Campus.
 
@@ -21,11 +21,11 @@
 
 </br>
 
------------------
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 </br>
 
-## Behold! My stuff.
+# Behold! My stuff.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V3D4NTH&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
@@ -35,11 +35,11 @@
 
 </br>
 
----------
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 </br>
 
-## Let's Talk!
+# Let's Talk!
 
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]

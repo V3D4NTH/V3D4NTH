@@ -25,19 +25,7 @@
 
 </br>
 
-# Behold! My stuff.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V3D4NTH&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V3D4NTH&layout=compact&theme=transparent&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=V3D4NTH&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true)
-
-</br>
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-</br>
 
 # Let's Talk!
 

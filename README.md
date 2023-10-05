@@ -12,9 +12,8 @@
 
 # Who am I, you ask?
 
-- 🎓 A freshman studying Computer Science Engineering at PES University, Electronic City Campus.
+- 🎓 Studying Computer Science Engineering at PES University.
 
-- 🤓 As clichéd as it sounds, I'm always looking to learn something new! In CS and other fields!
 - 💖  Barça | Pro-Wrestling | CS | Comics | MMA 
 - Masla dosa connoisseur.
 - Born and raised in the greatest city in the world. Bangalore, baby!

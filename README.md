@@ -15,7 +15,7 @@
 - 🎓 Studying Computer Science Engineering at PES University.
 
 - 💖  Barça | Pro-Wrestling | CS | Comics | MMA 
-- 🧐  Masla dosa connoisseur.
+- 🧐  Masala dosa connoisseur.
 - 📍   Born and raised in the greatest city in the world. Bangalore, baby!
 
 </br>
